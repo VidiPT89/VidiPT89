@@ -6,11 +6,6 @@ Looking for a new challenge, I made a deliberate move into software development 
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidiPT89&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/VidiPT89)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VidiPT89&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true)](https://github.com/VidiPT89)
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### Languages & Frameworks
