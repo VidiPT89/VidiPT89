@@ -6,8 +6,8 @@ Looking for a new challenge, I made a deliberate move into software development 
 
 ---
 
-[![](https://github-readme-stats.vercel.app/api?username=VidiPT89&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)](https://github.com/VidiPT89)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidiPT89&layout=compact&langs_count=7&theme=midnight-purple)](https://github.com/VidiPT89)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidiPT89&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/VidiPT89)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VidiPT89&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true)](https://github.com/VidiPT89)
 
 ---
 
@@ -27,11 +27,11 @@ Looking for a new challenge, I made a deliberate move into software development 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>&nbsp;
-![Nova](https://img.shields.io/badge/Nova-4A90D9?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTVMMTIgMnpNMiAxN2wxMCA1IDEwLTVNMiAxMmwxMCA1IDEwLTUiLz48L3N2Zz4=&logoColor=white)
+![Nova](https://img.shields.io/badge/Nova-4A90D9?style=flat-square&logoColor=white)
 
 ### DevOps & Version Control
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
 ### Productivity & Design
