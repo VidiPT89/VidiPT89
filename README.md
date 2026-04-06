@@ -30,6 +30,6 @@ Looking for a new challenge, I made a deliberate move into software development 
 
 ---
 
-## 🐍 My contributions
+## 🕹️ Pacman
 
-[![Snake animation](https://github.com/VidiPT89/VidiPT89/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/VidiPT89/VidiPT89/blob/output/github-contribution-grid-snake-dark.svg)
+![Pacman](https://github.com/VidiPT89/VidiPT89/raw/output/pacman-contribution-graph.svg)
