@@ -26,7 +26,7 @@ Looking for a new challenge, I made a deliberate move into software development 
 
 ### DevOps & Version Control
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
 ### Productivity & Design
