@@ -22,7 +22,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
-          plugin_languages_colors: github
+          plugin_languages_colors: "HTML:#1e90ff, Swift:#34C759"
           plugin_languages_categories: markup, programming
           plugin_languages_analysis_timeout: 15
           filename: metrics.languages.svg
