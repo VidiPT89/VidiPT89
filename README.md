@@ -9,6 +9,7 @@ Looking for a new challenge, I made a deliberate move into software development 
 ## 📊 Most Used Languages
 
 <br>
+
 | | Language | |
 |:---:|:---|:---|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="20"/> | **JavaScript** | `████████████░░░░░░░░` &nbsp; 45% |
