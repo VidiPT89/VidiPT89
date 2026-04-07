@@ -54,7 +54,7 @@ Looking for a new challenge, I made a deliberate move into software development 
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VidiPT89/VidiPT89/main/metrics.languages.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidiPT89&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 
 ---
