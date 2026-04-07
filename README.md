@@ -6,6 +6,12 @@ Looking for a new challenge, I made a deliberate move into software development 
 
 ---
 
+## 🕹️ PACMAN
+
+![Pacman](https://github.com/VidiPT89/VidiPT89/raw/output/pacman-contribution-graph.svg)
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Languages & Frameworks
@@ -58,9 +64,3 @@ Looking for a new challenge, I made a deliberate move into software development 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-martins-9b0129270/)
 [![Gmail](https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damartins89@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidiPT89)
-
----
-
-## 🕹️ PACMAN
-
-![Pacman](https://github.com/VidiPT89/VidiPT89/raw/output/pacman-contribution-graph.svg)
