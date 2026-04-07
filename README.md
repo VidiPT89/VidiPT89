@@ -6,10 +6,12 @@ Looking for a new challenge, I made a deliberate move into software development 
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidiPT89&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidiPT89&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidiPT89&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
