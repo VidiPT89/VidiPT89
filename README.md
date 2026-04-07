@@ -6,13 +6,16 @@ Looking for a new challenge, I made a deliberate move into software development 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VidiPT89&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidiPT89&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
+<br>
+
+| | Language | |
+|:---:|:---|:---|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="20"/> | **JavaScript** | `████████████░░░░░░░░` &nbsp; 45% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> | **HTML5** | `████████░░░░░░░░░░░░` &nbsp; 35% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> | **CSS3** | `█████░░░░░░░░░░░░░░░` &nbsp; 15% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20"/> | **Swift** | `█░░░░░░░░░░░░░░░░░░░` &nbsp; 5% |
 
 ---
 
