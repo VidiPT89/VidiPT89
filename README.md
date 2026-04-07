@@ -54,7 +54,8 @@ Looking for a new challenge, I made a deliberate move into software development 
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VidiPT89/VidiPT89/main/metrics.languages.svg" />
+  <img src="https://raw.githubusercontent.com/VidiPT89/VidiPT89/main/profile-summary-card-output/default/1-repos-per-language.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/VidiPT89/VidiPT89/main/profile-summary-card-output/default/2-most-commit-language.svg" width="400"/>
 </p>
 
 ---
