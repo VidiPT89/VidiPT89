@@ -6,6 +6,14 @@ Looking for a new challenge, I made a deliberate move into software development 
 
 ---
 
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidiPT89&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Languages & Frameworks
