@@ -6,19 +6,6 @@ Looking for a new challenge, I made a deliberate move into software development 
 
 ---
 
-## 📊 Most Used Languages
-
-<br>
-
-| | Language | |
-|:---:|:---|:---|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="20"/> | **JavaScript** | `████████████░░░░░░░░` &nbsp; 45% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> | **HTML5** | `████████░░░░░░░░░░░░` &nbsp; 35% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"/> | **CSS3** | `█████░░░░░░░░░░░░░░░` &nbsp; 15% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="20"/> | **Swift** | `█░░░░░░░░░░░░░░░░░░░` &nbsp; 5% |
-
----
-
 ## 🛠️ Technologies & Tools
 
 ### Languages & Frameworks
@@ -55,6 +42,14 @@ Looking for a new challenge, I made a deliberate move into software development 
 ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=flat-square&logoColor=white)&nbsp;
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)&nbsp;
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VidiPT89/VidiPT89/main/metrics.languages.svg" />
+</p>
 
 ---
 
