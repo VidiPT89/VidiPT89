@@ -13,18 +13,18 @@
 
 ---
 
-## ๐งโ๐ป About Me
+## ๐ About Me
 
 I started in tech with a professional qualification in **IT Equipment Management** at Escola Digital โ hardware, systems, infrastructure. Then I spent **16 years as a professional photographer**, with a Bachelor's in Photography and Visual Culture (Cinema) from IADE. That career built something software can't teach: an eye for detail, visual communication under pressure, and a relentless standard for quality.
 
 When I decided it was time for a new challenge, I went all-in: I completed the **Reskilling 4 Employment โ Software Developer** programme at CESAE Digital โ **1050 hours** covering the full stack, including 400 hours of hands-on work experience.
 
-**โก What that looks like in practice:**
+**What that looks like in practice:**
 - ๐๏ธ SQL & NoSQL databases
-- โ๏ธ Object-oriented development
+- ๐ Object-oriented development
 - ๐ Front-end & back-end web development + frameworks
 - ๐ฑ Mobile development (Android & iOS)
-- ๐งช Quality Assurance ยท Design Patterns ยท UML
+- ๐ Quality Assurance ยท Design Patterns ยท UML
 - ๐ Project management: Waterfall & Agile
 
 ---
