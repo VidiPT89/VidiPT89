@@ -56,12 +56,6 @@ When I decided it was time for a new challenge, I went all-in: I completed the *
 
 ---
 
-<img src="https://img.shields.io/badge/SNAKE CONTRIBUTIONS-%234CAF50?style=for-the-badge&logo=github&logoColor=white" />
-
-[![Snake animation](https://github.com/VidiPT89/VidiPT89/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/VidiPT89/VidiPT89/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 <img src="https://img.shields.io/badge/TECHNOLOGIES %26 TOOLS-%23333?style=for-the-badge&logo=dependabot&logoColor=white" />
 
 <br/><br/>
