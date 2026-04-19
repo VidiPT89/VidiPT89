@@ -39,17 +39,6 @@ When I decided it was time for a new challenge, I went all-in: I completed the *
 
 ---
 
-<img src="https://img.shields.io/badge/GITHUB STATS-%23222?style=for-the-badge&logo=github&logoColor=white" />
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VidiPT89&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)](https://github.com/VidiPT89)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VidiPT89&layout=compact&langs_count=7&theme=midnight-purple)](https://github.com/VidiPT89)
-
-</div>
-
----
-
 <img src="https://img.shields.io/badge/PACMAN CONTRIBUTION GRAPH-%23FFD700?style=for-the-badge&logo=ghostery&logoColor=black" />
 
 ![Pacman](https://github.com/VidiPT89/VidiPT89/raw/output/pacman-contribution-graph.svg)
