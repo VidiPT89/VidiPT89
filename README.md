@@ -62,7 +62,3 @@ When I decided it was time for a new challenge, I went all-in: I completed a **S
 <img src="https://img.shields.io/badge/Productivity %26 Design-%231e1e1e?style=flat-square&logo=canva&logoColor=white" />
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;![Querious](https://img.shields.io/badge/Querious-0075C2?style=for-the-badge&logoColor=white)&nbsp;![UTM](https://img.shields.io/badge/UTM-444444?style=for-the-badge&logoColor=white)&nbsp;![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logoColor=white)
-
-<img src="https://img.shields.io/badge/AI Tools-%231e1e1e?style=flat-square&logo=openai&logoColor=white" />
-
-![Claude](https://img.shields.io/badge/Claude-D4A27A?style=for-the-badge&logoColor=white)&nbsp;![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white)&nbsp;![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)&nbsp;![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
