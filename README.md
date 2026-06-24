@@ -21,7 +21,7 @@
 
 I started in tech with a professional qualification in **IT Equipment Management** at Escola Digital -- hardware, systems, infrastructure. Then I spent **16 years as a professional photographer**, with a Bachelor's in Photography and Visual Culture (Cinema) from IADE. That career built something software can't teach: an eye for detail, visual communication under pressure, and a relentless standard for quality.
 
-When I decided it was time for a new challenge, I went all-in: I completed the **Reskilling 4 Employment - Software Developer** programme at CESAE Digital -- **1050 hours** covering the full stack, including 400 hours of hands-on work experience.
+When I decided it was time for a new challenge, I went all-in: I completed a **Software Developer** programme -- **1050 hours** covering the full stack, including 400 hours of hands-on work experience.
 
 > First, I learned how machines work.
 > Then, I spent 16 years making images that told stories.
