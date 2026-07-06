@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0077B5&height=200&section=header&text=Hey,%20I'm%20David&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:d97706&height=200&section=header&text=Hey,%20I'm%20David&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<a href="https://ividi.dev/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Software+Developer;Former+Photographer%2C+16+Years;Always+Building+Something;Cascais%2C+Portugal+%F0%9F%87%B5%F0%9F%87%B9" alt="Typing SVG" /></a>
+<a href="https://ividi.dev/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Software+Developer;Former+Photographer%2C+16+Years;Always+Building+Something;Cascais%2C+Portugal+%F0%9F%87%B5%F0%9F%87%B9" alt="Typing SVG" /></a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ividi.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-martins-9b0129270/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ividi.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidiPT89)
+[![GitHub](https://img.shields.io/badge/GitHub-D97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VidiPT89)
 
 </div>
 
@@ -57,10 +57,12 @@ When I decided it was time for a new challenge, I went all-in: **1050 hours** in
 
 <div align="center">
 
-<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%"/>
-<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%"/>
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%"/>
+<img src="profile-summary-card-output/great_gatsby/0-profile-details.svg" width="98%"/>
+
+<img src="profile-summary-card-output/great_gatsby/1-repos-per-language.svg" width="49%"/>
+<img src="profile-summary-card-output/great_gatsby/2-most-commit-language.svg" width="49%"/>
+<img src="profile-summary-card-output/great_gatsby/3-stats.svg" width="49%"/>
+<img src="profile-summary-card-output/great_gatsby/4-productive-time.svg" width="49%"/>
 
 </div>
 
@@ -94,4 +96,4 @@ When I decided it was time for a new challenge, I went all-in: **1050 hours** in
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6e40c9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d97706,100:0a0a0f&height=120&section=footer" width="100%"/>
