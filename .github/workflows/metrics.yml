@@ -19,3 +19,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: VidiPT89
+      - name: Reapply custom color scheme to great_gatsby cards
+        run: |
+          cd profile-summary-card-output/great_gatsby
+          sed -i 's/fill="#ffa726"/fill="#38bdf8"/; s/stroke="#ffa726"/stroke="#38bdf8"/' 0-profile-details.svg
+          sed -i 's/fill="#ffa726"/fill="#38bdf8"/g' 4-productive-time.svg
+          sed -i 's/#ffd95b/#e2e8f0/g' 0-profile-details.svg 1-repos-per-language.svg 2-most-commit-language.svg 3-stats.svg 4-productive-time.svg
+          cd ../..
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/great_gatsby
+          git diff --cached --quiet || git commit -m "Reapply custom color scheme"
+          git push
