@@ -34,12 +34,11 @@ When I decided it was time for a new challenge, I completed the **Software Devel
 | Area | Skills |
 |---|---|
 | Languages | Java, JavaScript, TypeScript, HTML & CSS |
-| Development | OOP, Front-end & Back-end, React / Next.js / Node.js |
-| Databases | SQL & NoSQL -- MySQL, MongoDB, Neon |
+| Development | React, Next.js, Node.js, Bootstrap |
+| Databases | SQL / MySQL, MongoDB, Neon |
 | Mobile | Android (Kotlin) & iOS (Swift) |
-| Cloud & Deploy | Vercel, Cloudflare, Docker |
-| Quality | QA, Design Patterns, UML |
-| Management | Waterfall & Agile, Jira |
+| Cloud & Deploy | Vercel, Railway, Cloudflare, Docker |
+| Tools & Practices | Git, GitHub, Jira, Agile, QA |
 
 ---
 
@@ -88,11 +87,15 @@ When I decided it was time for a new challenge, I completed the **Software Devel
 
 <img src="https://img.shields.io/badge/Databases %26 Cloud-%231e1e1e?style=flat-square&logo=databricks&logoColor=white" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white)&nbsp;![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white)&nbsp;![Querious](https://img.shields.io/badge/Querious-0075C2?style=for-the-badge&logoColor=white)&nbsp;![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)&nbsp;![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 <img src="https://img.shields.io/badge/IDEs %26 Editors-%231e1e1e?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)&nbsp;![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;![Nova](https://img.shields.io/badge/Nova-4A90D9?style=for-the-badge&logoColor=white)&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;![Nova](https://img.shields.io/badge/Nova-4A90D9?style=for-the-badge&logoColor=white)&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<img src="https://img.shields.io/badge/Mobile-%231e1e1e?style=flat-square&logo=android&logoColor=white" />
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)&nbsp;![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)&nbsp;![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logoColor=white)
 
 <img src="https://img.shields.io/badge/DevOps %26 Version Control-%231e1e1e?style=flat-square&logo=git&logoColor=white" />
 
@@ -100,11 +103,19 @@ When I decided it was time for a new challenge, I completed the **Software Devel
 
 <img src="https://img.shields.io/badge/Operating Systems-%231e1e1e?style=flat-square&logo=linux&logoColor=white" />
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)&nbsp;![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)&nbsp;![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logoColor=white)
 
-<img src="https://img.shields.io/badge/Productivity %26 Design-%231e1e1e?style=flat-square&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Productivity %26 Collaboration-%231e1e1e?style=flat-square&logo=canva&logoColor=white" />
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;![Querious](https://img.shields.io/badge/Querious-0075C2?style=for-the-badge&logoColor=white)&nbsp;![UTM](https://img.shields.io/badge/UTM-444444?style=for-the-badge&logoColor=white)&nbsp;![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)&nbsp;![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logoColor=white)&nbsp;![Maestri](https://img.shields.io/badge/Maestri-6366F1?style=for-the-badge&logoColor=white)&nbsp;![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=white)
+
+<img src="https://img.shields.io/badge/Office-%231e1e1e?style=flat-square&logoColor=white" />
+
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logoColor=white)&nbsp;![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white)&nbsp;![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logoColor=white)&nbsp;![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logoColor=white)&nbsp;![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logoColor=white)
+
+<img src="https://img.shields.io/badge/Photography-%231e1e1e?style=flat-square&logoColor=white" />
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logoColor=white)&nbsp;![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logoColor=white)&nbsp;![Lightroom Classic](https://img.shields.io/badge/Lightroom%20Classic-31A8FF?style=for-the-badge&logoColor=white)&nbsp;![Bridge](https://img.shields.io/badge/Bridge-31A8FF?style=for-the-badge&logoColor=white)&nbsp;![PhotoMechanic](https://img.shields.io/badge/PhotoMechanic-444444?style=for-the-badge&logoColor=white)&nbsp;![Capture One](https://img.shields.io/badge/Capture%20One-1B1B1B?style=for-the-badge&logoColor=white)
 
 <br/>
 
