@@ -68,6 +68,16 @@ When I decided it was time for a new challenge, I went all-in: **1050 hours** in
 
 ---
 
+<img src="https://img.shields.io/badge/STREAK-%23222?style=for-the-badge&logo=github&logoColor=white" />
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=VidiPT89&theme=dark&hide_border=true&background=0A0A0F&ring=D97706&fire=D97706&currStreakLabel=FBBF24&currStreakNum=FFFFFF&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B&stroke=D97706" width="70%"/>
+
+</div>
+
+---
+
 <img src="https://img.shields.io/badge/TECHNOLOGIES %26 TOOLS-%23333?style=for-the-badge&logo=dependabot&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Languages %26 Frameworks-%231e1e1e?style=flat-square&logo=stackshare&logoColor=white" />
