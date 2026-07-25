@@ -19,9 +19,11 @@
 
 ## About Me
 
-I started in tech with a professional qualification in **IT Equipment Management** at Escola Profissional de Tecnologia Digital -- hardware, systems, infrastructure. Then I spent **16 years as a professional photographer**, with a Bachelor's in Photography and Visual Culture (Cinema) from IADE. That career built something software can't teach: an eye for detail, visual communication under pressure, and a relentless standard for quality.
+I'm David Arsénio Martins -- known as **Vidi** since childhood. A professional photojournalist for 16 years, now transitioning to Software Development.
 
-When I decided it was time for a new challenge, I went all-in: **1050 hours** in a Software Developer programme at CESAE Digital, covering the full stack, including 400 hours of hands-on work experience.
+I took my first steps in tech with the **IT Equipment Management Technician** course at Escola Profissional de Tecnologia Digital. Photography then became my life for over a decade: a Bachelor's in Photography and Visual Culture from Faculdade IADE, and 16 years working with national and international newspapers, football clubs, and news agencies in Portugal and abroad.
+
+When I decided it was time for a new challenge, I completed the **Software Developer** programme at CESAE Digital -- part of the Reskilling 4 Employment digital lab -- covering web and mobile development, database management, and software engineering.
 
 > First, I learned how machines work.
 > Then, I spent 16 years making images that told stories.
@@ -57,12 +59,12 @@ When I decided it was time for a new challenge, I went all-in: **1050 hours** in
 
 <div align="center">
 
-<img src="profile-summary-card-output/great_gatsby/0-profile-details.svg" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VidiPT89&theme=great_gatsby" width="98%"/>
 
-<img src="profile-summary-card-output/great_gatsby/1-repos-per-language.svg" width="49%"/>
-<img src="profile-summary-card-output/great_gatsby/2-most-commit-language.svg" width="49%"/>
-<img src="profile-summary-card-output/great_gatsby/3-stats.svg" width="49%"/>
-<img src="profile-summary-card-output/great_gatsby/4-productive-time.svg" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VidiPT89&theme=great_gatsby" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VidiPT89&theme=great_gatsby" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VidiPT89&theme=great_gatsby" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VidiPT89&theme=great_gatsby&utcOffset=0" width="49%"/>
 
 </div>
 
