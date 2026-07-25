@@ -59,7 +59,7 @@ When I decided it was time for a new challenge, I completed the **Software Devel
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VidiPT89&theme=great_gatsby&name=Vidi" width="98%"/>
+<img src="assets/profile-details.svg" width="98%"/>
 
 <img src="assets/repos-per-language.svg" width="49%"/>
 <img src="assets/most-commit-language.svg" width="49%"/>
