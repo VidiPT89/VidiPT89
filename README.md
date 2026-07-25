@@ -63,8 +63,8 @@ When I decided it was time for a new challenge, I completed the **Software Devel
 
 <img src="assets/repos-per-language.svg" width="49%"/>
 <img src="assets/most-commit-language.svg" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VidiPT89&theme=great_gatsby" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VidiPT89&theme=great_gatsby&utcOffset=0" width="49%"/>
+<img src="assets/stats.svg" width="49%"/>
+<img src="assets/productive-time.svg" width="49%"/>
 
 </div>
 

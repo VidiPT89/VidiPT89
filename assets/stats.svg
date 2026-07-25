@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img" aria-label="GitHub stats">
+<title>Stats</title>
+<style>* { font-family: 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif }</style>
+<rect x="1" y="1" rx="5" ry="5" height="99%" width="99.4%" stroke="#000000" stroke-width="1" fill="#000000"></rect>
+<text x="30" y="40" style="font-size: 22px; fill: #ffa726;">Stats</text>
+<rect x="30" y="46" width="12" height="12" fill="#eda100"/><text x="48" y="56" style="font-size:13px; fill:#e2e8f0;">Total Stars:</text><text x="180" y="56" style="font-size:14px; font-weight:bold; fill:#eda100;">1</text><rect x="30" y="74" width="12" height="12" fill="#3987e5"/><text x="48" y="84" style="font-size:13px; fill:#e2e8f0;">Total Commits:</text><text x="180" y="84" style="font-size:14px; font-weight:bold; fill:#3987e5;">438</text><rect x="30" y="102" width="12" height="12" fill="#9085e9"/><text x="48" y="112" style="font-size:13px; fill:#e2e8f0;">Total PRs:</text><text x="180" y="112" style="font-size:14px; font-weight:bold; fill:#9085e9;">3</text><rect x="30" y="130" width="12" height="12" fill="#e66767"/><text x="48" y="140" style="font-size:13px; fill:#e2e8f0;">Total Issues:</text><text x="180" y="140" style="font-size:14px; font-weight:bold; fill:#e66767;">0</text><rect x="30" y="158" width="12" height="12" fill="#1baf7a"/><text x="48" y="168" style="font-size:13px; fill:#e2e8f0;">Contributed to:</text><text x="180" y="168" style="font-size:14px; font-weight:bold; fill:#1baf7a;">49</text>
+</svg>
