@@ -90,7 +90,7 @@ When I decided it was time for a new challenge, I completed the **Software Devel
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=VidiPT89&theme=dark&hide_border=true&background=0A0A0F&ring=D97706&fire=D97706&currStreakLabel=FBBF24&currStreakNum=FFFFFF&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B&stroke=D97706" width="70%"/>
+<img src="https://github.com/VidiPT89/VidiPT89/raw/main/assets/streak-stats.svg" width="70%"/>
 
 </div>
 
