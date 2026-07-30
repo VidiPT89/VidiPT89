@@ -17,10 +17,19 @@ jobs:
 
       - name: Render streak-stats.svg
         run: |
-          curl -sSL --retry 8 --retry-all-errors --retry-delay 10 --max-time 30 \
-            -o assets/streak-stats.svg \
-            "https://streak-stats.demolab.com/?user=VidiPT89&theme=dark&hide_border=true&background=0A0A0F&ring=D97706&fire=D97706&currStreakLabel=FBBF24&currStreakNum=FFFFFF&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B&stroke=D97706"
-          grep -q "<svg" assets/streak-stats.svg
+          URL="https://streak-stats.demolab.com/?user=VidiPT89&theme=dark&hide_border=true&background=0A0A0F&ring=D97706&fire=D97706&currStreakLabel=FBBF24&currStreakNum=FFFFFF&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B&stroke=D97706"
+          for i in $(seq 1 15); do
+            curl -sSL --max-time 30 -o /tmp/streak.svg "$URL" || { echo "attempt $i: request failed"; sleep 8; continue; }
+            if grep -q "<svg" /tmp/streak.svg && ! grep -qi "failed to retrieve" /tmp/streak.svg; then
+              cp /tmp/streak.svg assets/streak-stats.svg
+              echo "attempt $i: got a valid render"
+              exit 0
+            fi
+            echo "attempt $i: got an error SVG (GitHub API issue), retrying..."
+            sleep 8
+          done
+          echo "Could not get a valid streak render after 15 attempts, keeping the previous file" >&2
+          exit 1
 
       - name: Commit and push if changed
         run: |
