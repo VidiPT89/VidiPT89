@@ -67,7 +67,11 @@ When I decided it was time for a new challenge, I completed the **Software Devel
 
 <img src="https://img.shields.io/badge/PACMAN CONTRIBUTION GRAPH-%23FFD700?style=for-the-badge&logo=ghostery&logoColor=black" />
 
-![Pacman](https://github.com/VidiPT89/VidiPT89/raw/output/pacman-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VidiPT89/VidiPT89/raw/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/VidiPT89/VidiPT89/raw/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman" src="https://github.com/VidiPT89/VidiPT89/raw/output/pacman-contribution-graph.svg" />
+</picture>
 
 ---
 
