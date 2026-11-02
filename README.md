@@ -45,9 +45,9 @@ When I decided it was time for a new challenge, I completed the **Software Devel
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;![Nova](https://img.shields.io/badge/Nova-4A90D9?style=for-the-badge&logoColor=white)&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<img src="https://img.shields.io/badge/Mobile-%231e1e1e?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Mobile-%231e1e1e?style=flat-square&logo=apple&logoColor=white" />
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)&nbsp;![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)&nbsp;![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)&nbsp;![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)&nbsp;![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logoColor=white)
 
 <img src="https://img.shields.io/badge/DevOps %26 Version Control-%231e1e1e?style=flat-square&logo=git&logoColor=white" />
 
